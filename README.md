@@ -1,8 +1,3 @@
-TestRepo
-========
-
-First test repository
-
-This is a test repository.
-
-Test
+TestRepo Project
+======
+This is the first test repository.
